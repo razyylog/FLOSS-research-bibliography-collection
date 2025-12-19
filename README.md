@@ -64,11 +64,9 @@ Avoid submitting duplicates or incomplete bibliometric entries.
 
 Process and clean a BibTeX file using `bibtool` with custom resource rules.
 
-### Command
-
 ```sh
 bibtool -v -d -k -r bibtoolrsc.rsc -F [in file] -o [out file]
-
+´´
 
 ## License
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode.txt)
