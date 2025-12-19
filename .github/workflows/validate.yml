@@ -1,0 +1,11 @@
+name: Validate BibTeX
+on: [push, pull_request]
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Validate BibTeX files
+        run: |
+          pip install bibtexparser
+          python tools/validate.py
