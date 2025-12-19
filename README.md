@@ -36,7 +36,8 @@ The follow the BibTeX bibliographic flat-file database file format that is widel
 - [**floss-lis.bib**](floss-lis.bib) - Library and Information Science perspectives. Used by by [Jose Teixeira](http://www.jteixeira.eu/) to study the [Koha](https://koha-community.org/) library system. 
 - [**floss-motivations.bib**](floss-motivations.bib) - Developer and company motivations for open-sourcing. 
 - [**floss-peer-review.bib**](floss-peer-review.bib) - Peer review  (aka code reviews) in FLOSS research. 
-- [**floss-sna.bib**](floss-sna.bib) - Social Network Analysis of FLOSS communities. 
+- [**floss-sna.bib**](floss-sna.bib) - Social Network Analysis of FLOSS communities.
+- [**bibtoolrsc.rsc**](bibtoolrsc.rsc) -  Configuration file to style and generate citation keys.
 
 ## Usage
 
@@ -54,10 +55,18 @@ Download individual .bib files and use them.
 [Add counts of entries per file, most cited papers, etc.]
 
 ## Contributing
-Follow the regular Git path. First clone or fork, the edit, and commit. '
+Follow the regular Git path. First clone or fork, the edit, and commit. 
 
 Then if you want to keep this alive and help maintaining this map of the current state of the art of research in open-source software,  Send a pull request on GitHub and I will merge after testing.  
-Knowledge of [BibTool](http://www.gerd-neugebauer.de/software/TeX/BibTool/en/) and [BibTeX Tidy](https://flamingtempura.github.io/bibtex-tidy/index.html) will not hurt. Avoid submitting duplicates or incomplete bibliometric entries. 
+Knowledge of [BibTool](http://www.gerd-neugebauer.de/software/TeX/BibTool/en/) and [BibTeX Tidy](https://flamingtempura.github.io/bibtex-tidy/index.html) will not hurt. 
+
+Avoid submitting duplicates or incomplete bibliometric entries. 
+
+% For format consitency, please run 
+''' 
+- bibtool -v -d -k -r  bibtoolrsc.rsc  -F  [in file] -o [out file]
+''' 
+
 
 ## License
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode.txt)
