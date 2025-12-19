@@ -62,11 +62,14 @@ Knowledge of [BibTool](http://www.gerd-neugebauer.de/software/TeX/BibTool/en/) a
 
 Avoid submitting duplicates or incomplete bibliometric entries. 
 
-% For format consitency, please run 
-''' 
-- bibtool -v -d -k -r  bibtoolrsc.rsc  -F  [in file] -o [out file]
-''' 
+Process and clean a BibTeX file using `bibtool` with custom resource rules.
+
+### Command
+
+```sh
+bibtool -v -d -k -r bibtoolrsc.rsc -F [in file] -o [out file]
 
 
 ## License
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode.txt)
+Pick items as you wish. Cite or atribute if using any of the files as a whole. 
