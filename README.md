@@ -30,13 +30,13 @@ The follow the BibTeX bibliographic flat-file database file format that is widel
 - [**floss.bib**](floss.bib) - General FLOSS research. Special issues are annotated. Top journals in Software Enginnering, Information Systems, Management and Innovation Studies are widely covered.  
   
 - [**floss-coordination.bib**](floss-coordination.bib) - Studies of coordination and collaboration in FLOSS. Used on studies of coordination, collaboration and competition in the  [TensorFlow](https://users.aalto.fi/~apolinj2/tensorflowsna/), [Automotive Grade Linuyx](https://users.aalto.fi/~apolinj2/autogradelinuxsna/), OpenStack, Linux, Koha, WebKit software ecosystems by [Jose Teixeira](http://www.jteixeira.eu/). 
-- **floss-diversity.bib** - Diversity, Inclusiveness and inclusion in FLOSS communities. 
-- **floss-fission.bib** - Forking, slitting, conflic and community shisms in FLOSS comunnities. 
-- **floss-gender.bib** - Gender studies in FLOSS. 
-- **floss-lis.bib** - Library and Information Science perspectives. Used by by [Jose Teixeira](http://www.jteixeira.eu/) to study the [Koha](https://koha-community.org/) library system. 
-- **floss-motivations.bib** - Developer and company motivations for open-sourcing. 
-- **floss-peer-review.bib** - Peer review  (aka code reviews) in FLOSS research. 
-- **floss-sna.bib** - Social Network Analysis of FLOSS communities. 
+- [**floss-diversity.bib**](floss-diversity.bib) - Diversity, Inclusiveness and inclusion in FLOSS communities. 
+- [**floss-fission.bib**](floss-fission.bib) - Forking, slitting, conflic and community shisms in FLOSS comunnities. 
+- [**floss-gender.bib**](floss-gender.bib) - Gender studies in FLOSS. 
+- [**floss-lis.bib**](floss-lis.bib) - Library and Information Science perspectives. Used by by [Jose Teixeira](http://www.jteixeira.eu/) to study the [Koha](https://koha-community.org/) library system. 
+- [**floss-motivations.bib**](floss-motivations.bib) - Developer and company motivations for open-sourcing. 
+- [**floss-peer-review.bib**](floss-peer-review.bib) - Peer review  (aka code reviews) in FLOSS research. 
+- [**floss-sna.bib**](floss-sna.bib) - Social Network Analysis of FLOSS communities. 
 
 ## Usage
 
@@ -45,7 +45,7 @@ Download individual .bib files and use them.
 
 
 ### With Reference Managers
-. **LaTeX**: They were tested by Jose Teixeira using both (1) BibTeX and BibLaTeX, (2) pdfLaTeX and XeLaTeX, (3) Linux and Mac. So it should work for you. 
+- **LaTeX**: They were tested by Jose Teixeira using both (1) BibTeX and BibLaTeX, (2) pdfLaTeX and XeLaTeX, (3) Linux and Mac. So it should work for you. 
 - **Zotero**: Import .bib files directly
 - **Mendeley**: Import .bib files directly
 - **JabRef**: Native .bib support
