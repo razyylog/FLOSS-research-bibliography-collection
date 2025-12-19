@@ -29,21 +29,19 @@ The follow the BibTeX bibliographic flat-file database file format that is widel
 
 - [**floss.bib**](floss.bib) - General FLOSS research. Special issues are annotated. Top journals in Software Enginnering, Information Systems, Management and Innovation Studies are widely covered.  
   
-- **floss-coordination.bib** - Coordination and collaboration in FLOSS
-- **floss-diversity.bib** - Diversity and inclusion in FLOSS
-- **floss-fission.bib** - Forking and project splits
-- **floss-gender.bib** - Gender studies in FLOSS
-- **floss-lis.bib** - Library and Information Science perspectives
-- **floss-motivations.bib** - Developer motivations
-- **floss-peer-review.bib** - Peer review in FLOSS
-- **floss-sna.bib** - Social Network Analysis of FLOSS communities
+- [**floss-coordination.bib**](floss-coordination.bib) - Studies of coordination and collaboration in FLOSS. Used on studies of coordination, collaboration and competition in the  [TensorFlow](https://users.aalto.fi/~apolinj2/tensorflowsna/), [Automotive Grade Linuyx](https://users.aalto.fi/~apolinj2/autogradelinuxsna/), OpenStack, Linux, Koha, WebKit software ecosystems by [Jose Teixeira](http://www.jteixeira.eu/). 
+- **floss-diversity.bib** - Diversity, Inclusiveness and inclusion in FLOSS communities. 
+- **floss-fission.bib** - Forking, slitting, conflic and community shisms in FLOSS comunnities. 
+- **floss-gender.bib** - Gender studies in FLOSS. 
+- **floss-lis.bib** - Library and Information Science perspectives. Used by by [Jose Teixeira](http://www.jteixeira.eu/) to study the [Koha](https://koha-community.org/) library system. 
+- **floss-motivations.bib** - Developer and company motivations for open-sourcing. 
+- **floss-peer-review.bib** - Peer review  (aka code reviews) in FLOSS research. 
+- **floss-sna.bib** - Social Network Analysis of FLOSS communities. 
 
 ## Usage
 
 ### Direct Use
 Download individual .bib files and use them. 
-
-### Contribute 
 
 
 ### With Reference Managers
@@ -56,11 +54,10 @@ Download individual .bib files and use them.
 [Add counts of entries per file, most cited papers, etc.]
 
 ## Contributing
-Clone and edit.
-Then if you want to keep this alive and help maintaining this map of the current state of the art of research in open-source software. 
-Send a pull request on GitHub and I will merge after testing.  
-Knowledge of [BibTool](http://www.gerd-neugebauer.de/software/TeX/BibTool/en/) and [BibTeX Tidy](https://flamingtempura.github.io/bibtex-tidy/index.html) will not hurt. 
+Follow the regular Git path. First clone or fork, the edit, and commit. '
 
+Then if you want to keep this alive and help maintaining this map of the current state of the art of research in open-source software,  Send a pull request on GitHub and I will merge after testing.  
+Knowledge of [BibTool](http://www.gerd-neugebauer.de/software/TeX/BibTool/en/) and [BibTeX Tidy](https://flamingtempura.github.io/bibtex-tidy/index.html) will not hurt. Avoid submitting duplicates or incomplete bibliometric entries. 
 
 ## License
-[Your chosen license - CC0 or CC BY recommended]
+[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode.txt)
