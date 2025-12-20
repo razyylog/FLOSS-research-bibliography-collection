@@ -1,8 +1,8 @@
 # FLOSS Research Bibliography Collection 
 
-A curated collection of bibliographic references on Free/Libre Open Source Software research, organized by topic. 
+A curated collection of bibliographic references on Free/Libre Open Source Software research, organised by topic in flat files. 
 Curated by [Jose Teixeira](http://www.jteixeira.eu/) during his doctoral studies on ["Coopetition in an open-source way"](http://www.jteixeira.eu/dissertation/diss.pdf) in Information Systems at the University of Turku, Finland. 
-They were intended for personal use, but are now in the public domain to facilitate mapping the current state of the art in open-source software research in a collaborative way. 
+This collection was intended for personal use, but is now in the public domain to facilitate mapping the current state of the art in open-source software research in a morecollaborative way. 
 
 
           ________________________________________
@@ -73,7 +73,6 @@ The following bibliographic flat-file database files follow the BibTeX format. T
 
 ### Directly 
 Simply download individual .bib files and use them. 
-
 
 ### With Reference Managers
 - **LaTeX**: They were tested by Jose Teixeira using both (1) BibTeX and BibLaTeX, (2) pdfLaTeX and XeLaTeX, (3) Linux and Mac. So it should work for you. 
@@ -150,11 +149,10 @@ and Technology | 3 |
 
 ## Relational Social Network Analysis based on all the bibliographic collection .bib files
 ### Network Visualization
+[![Small Network Preview](coauthorship_coauthorship_network.png)](coauthorship_coauthorship_network.png)
 
-![Co-authorship Network](coauthorship_coauthorship_network.png)
-
-*Visualization of the co-authorship network.*
-
+<!-- With custom size -->
+[<img src="coauthorship_coauthorship_network.png" alt="Network" width="300">](coauthorship_coauthorship_network.png)
 
 See [coauthorship_coauthorship_report.md](https://github.com/jaateixeira/FLOSS-research-bibliography-collection/blob/main/coauthorship_coauthorship_report.md) for a bibliometric report from a network perspective (i.e. more interested in relations than quantities). 
 
