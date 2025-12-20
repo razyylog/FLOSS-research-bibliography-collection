@@ -151,7 +151,7 @@ and Technology | 3 |
 ### Network Visualization
 
 <!-- With custom size -->
-[<img src="coauthorship_coauthorship_network.png" alt="Network" width="%50;">](coauthorship_coauthorship_network.png)
+[<img src="coauthorship_coauthorship_network.png" alt="Network" width="50%;">](coauthorship_coauthorship_network.png)
 
 See [coauthorship_coauthorship_report.md](https://github.com/jaateixeira/FLOSS-research-bibliography-collection/blob/main/coauthorship_coauthorship_report.md) for a bibliometric report from a network perspective (i.e. more interested in relations than quantities). 
 
