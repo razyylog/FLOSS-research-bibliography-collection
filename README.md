@@ -4,21 +4,36 @@ A curated collection of bibliographic references on Free/Libre Open Source Softw
 Curated by [Jose Teixeira](http://www.jteixeira.eu/) during his doctoral studies on ["Coopetition in an open-source way"](http://www.jteixeira.eu/dissertation/diss.pdf) in Information Systems at the University of Turku, Finland. 
 They were intended for personal use, but are now in the public domain to facilitate mapping the current state of the art in open-source software research in a collaborative way. 
 
-## Motivation 
 
- Motivations for releasing to the public domain this curated bibliometric collection include: 
+          ________________________________________
+         /                                       /|
+        /_______________________________________/ |
+       |                                       |  |
+       |  FLOSS Research Literature            |  |
+       |                                       |  |
+       |  ┌────────────────────────────┐       |  |
+       |  │  Free Libre Open Source    │       |  |
+       |  └────────────────────────────┘       |  |
+       |  ┌────────────────────────────┐       |  |
+       |  │ Coordination&collaboration │       |  |
+       |  └────────────────────────────┘       |  |
+       |  ┌────────────────────────────┐       |  |
+       |  │    Diversity & Gender      │       |  |
+       |  └────────────────────────────┘       |  |
+       |  ┌────────────────────────────┐       |  |
+       |  │     Commonity fission      │       |  |
+       |  └────────────────────────────┘       |  |
+       |  ┌────────────────────────────┐       |  |
+       |  │        Motivations         │       |  |
+       |  └────────────────────────────┘       |  |
+       |  ┌────────────────────────────┐       |  |
+       |  │        Peer review         │       |  |
+       |  └────────────────────────────┘       |  |
+       |  ┌────────────────────────────┐       |  |
+       |  │ Social Network Analysis    │       |  |
+       |  └────────────────────────────┘       |  |
+       |_______________________________________|/
 
-| Motivation                                      | Description                                                                                     |
-|--------------------------------------------------|-------------------------------------------------------------------------------------------------|
-| **Poor quality of avaiable data**         |  Most of the references exported from [Google Scholar](https://scholar.google.com), [CrossRef](https://www.crossref.org), [Web of Science](https://www.webofscience.com), [Scopus](https://www.scopus.com), [EBSCOhost](https://www.ebsco.com), [IEEE Xplore](https://ieeexplore.ieee.org), [ACM Digital Library](https://dl.acm.org) often contain typos and are wrongly capitalized (e.g., missing the title case).|
-| **Long-term Archival and Preservation**         | Ensures bibliometric data is preserved, accessible, and usable for future research.           |
-| **Stimulate Collaboration Among FLOSS Researchers** | Encourages open collaboration, data sharing, and community-driven curation of bibliometric data.            |
-| **Reduction of Duplicate Efforts**               | Minimizes redundant bibliometric data collection and processing across researchers and research groups.                    |
-| **Support for Meta-Research**                    | Facilitates large-scale studies on research trends, impact, and open science practices.     |
-| **Encouragement of Open Science Practices**     | Promotes FAIR (Findable, Accessible, Interoperable, Reusable) principles in research.          |
-| **Community Engagement and Feedback**           | Allows for community contributions, corrections, and updates to the dataset. Improved bibliomentric data by peer reivew before merging               |
-| **Interdisciplinary Research Support**          | Enables researchers from different fields to access and analyze bibliometric data.           |
-| **Historical and Trend Analysis**               | Supports longitudinal studies of research evolution, citation patterns, and collaboration.   |
 
 
 
@@ -38,6 +53,23 @@ The following bibliographic flat-file database files follow the BibTeX format. T
 - [**floss-peer-review.bib**](floss-peer-review.bib) - Peer review  (aka code reviews) in FLOSS research. 
 - [**floss-sna.bib**](floss-sna.bib) - Social Network Analysis of FLOSS communities.
 - [**bibtoolrsc.rsc**](bibtoolrsc.rsc) -  Configuration file to style and generate citation keys.
+
+## Motivation 
+
+ Motivations for releasing to the public domain this curated bibliometric collection include: 
+
+| Motivation                                      | Description                                                                                     |
+|--------------------------------------------------|-------------------------------------------------------------------------------------------------|
+| **Poor quality of avaiable data**         |  Most of the references exported from [Google Scholar](https://scholar.google.com), [CrossRef](https://www.crossref.org), [Web of Science](https://www.webofscience.com), [Scopus](https://www.scopus.com), [EBSCOhost](https://www.ebsco.com), [IEEE Xplore](https://ieeexplore.ieee.org), [ACM Digital Library](https://dl.acm.org) often contain typos and are wrongly capitalized (e.g., missing the title case).|
+| **Long-term Archival and Preservation**         | Ensures bibliometric data is preserved, accessible, and usable for future research.           |
+| **Stimulate Collaboration Among FLOSS Researchers** | Encourages open collaboration, data sharing, and community-driven curation of bibliometric data.            |
+| **Reduction of Duplicate Efforts**               | Minimizes redundant bibliometric data collection and processing across researchers and research groups.                    |
+| **Support for Meta-Research**                    | Facilitates large-scale studies on research trends, impact, and open science practices.     |
+| **Encouragement of Open Science Practices**     | Promotes FAIR (Findable, Accessible, Interoperable, Reusable) principles in research.          |
+| **Community Engagement and Feedback**           | Allows for community contributions, corrections, and updates to the dataset. Improved bibliomentric data by peer reivew before merging               |
+| **Interdisciplinary Research Support**          | Enables researchers from different fields to access and analyze bibliometric data.           |
+| **Historical and Trend Analysis**               | Supports longitudinal studies of research evolution, citation patterns, and collaboration.   |
+
 
 ## Usage
 
