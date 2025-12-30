@@ -106,8 +106,6 @@ Several comments are used to annotate a BibTeX entry.  For example, if a entry h
 - [TOP_SNA] **Top Network Analysis Journals:**
 
 
-<sub>
-<div style="padding-left: 15px;">*Social Networks*  
 *American Sociological Review*  
 *Network Science*  
 *American Journal of Sociology*  
@@ -116,7 +114,7 @@ Several comments are used to annotate a BibTeX entry.  For example, if a entry h
 *Proceedings of the National Academy of Sciences (PNAS)*  
 *Connections*  
 *Science*  
-*Nature*</div></sub>
+*Nature*
 
 - [TOP_SE_J] **Top Software Engineering Journals:**
 
