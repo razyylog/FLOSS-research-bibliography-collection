@@ -84,22 +84,35 @@ Several comments are used to annotate a BibTeX entry.  For example, if a entry h
 
 ### Notations on the prestige of the publication outlet 
 - [FT50] - **50 academic and practitioner journals used by the Financial Times to rank faculty research at business schools**
-- See [https://guides.lib.purdue.edu/ft50](https://guides.lib.purdue.edu/ft50)
+  See [https://guides.lib.purdue.edu/ft50](https://guides.lib.purdue.edu/ft50)
+-  [A*]  - **Excellent conference according to CORE (Computing Research and Education Association of Australasia) rankings**
+  See [https://www.core.edu.au/icore-portal](https://www.core.edu.au/icore-portal)
 - [AIS_basket_11] - **AIS basket of 11 premier IS journals**
   See [https://aisnet.org/page/SeniorScholarListofPremierJournals)(https://aisnet.org/page/SeniorScholarListofPremierJournals)
-- [A*]  - **Excellent conference according to CORE (Computing Research and Education Association of Australasia) rankings**
-  See [https://www.core.edu.au/icore-portal](https://www.core.edu.au/icore-portal)
-- [TOP_SNA] - **Top network analysis Journal**:
 
-*Social Networks*
-*American Sociological Review*
-*Network Science*
-*American Journal of Sociology*
-*Social Forces*
-*Sociological Science*
-*Proceedings of the National Academy of Sciences (PNAS)*
-*Connections* 
-*Science*
+*Decision Support Systems*  
+*European Journal of Information Systems*  
+*Information & Management*  
+*Information and Organization*  
+*Information Systems Journal*  
+*Information Systems Research*  
+*Journal of the Association for Information Systems (JAIS)*  
+*Journal of Information Technology*  
+*Journal of Management Information Systems (JMIS)*  
+*Journal of Strategic Information Systems*  
+*MIS Quarterly*
+  
+- [TOP_SNA] **Top Network Analysis Journals:**
+
+*Social Networks*  
+*American Sociological Review*  
+*Network Science*  
+*American Journal of Sociology*  
+*Social Forces*  
+*Sociological Science*  
+*Proceedings of the National Academy of Sciences (PNAS)*  
+*Connections*  
+*Science*  
 *Nature*
 
 - [TOP_SE_J] **Top Software Engineering Journals:**
