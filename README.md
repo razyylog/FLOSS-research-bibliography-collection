@@ -62,25 +62,40 @@ Several comments are used to annotate a BibTeX entry.  For example, if a entry h
 - [special_issue] - Special issue p
 - [literature_review] - Review of literature  
 - [systematic_literature_review] - Systematic review of literatur
-- [mixed_methods] - Mixed or multi methods 
+- [mixed_methods] - Mixed or multi methods
+- [long] Longitudinal or panel data
 - [meta] - Meta-study  paper 
 - [design_science] - Design science paper 
 - [network_analysis] - Network analysis paper
 - [machine_learning] - Machine learning paper
 - [new_method] - Claims a new method
 - [new_theory] - Claims a new theory
-
+- [floss_case_study] - Case study on FLOSS adoption or adoption
+- [teaching_value] - With significant value to be used in teaching
+- [tech_solution] - Describes the technical implementation of a solution for a known real world problem 
 
 
 ### Notations on the prestige of the article 
+- [BPA]  - Best paper award at the journal or conference in a single year
+- [RU4BPA]  - Runner up, or second, for the best paper award at the journal or conference in a single year
+- [PA] - Awared or recognized in some other way (e.g., best design science paper, best doctoral student paper, best empirical research paper)
 - [high_cited]  High citations (1000+) according to Google Scholar
+- [practice_value] - With significant evidence that it changed the work of real world practicioners 
 
 ### Notations on the prestige of the publication outlet 
 - [FT50] - 50 academic and practitioner journals used by the Financial Times to rank faculty research. See [https://guides.lib.purdue.edu/ft50](https://guides.lib.purdue.edu/ft50)
-[AIS_basket_11] - [AIS basket of 11 premier IS journals](https://aisnet.org/page/SeniorScholarListofPremierJournals)
-[A*]  -[ Excellent conference according to CORE (Computing Research and Education Association of Australasia) rankings](https://www.core.edu.au/icore-portal) 
-
-
+- [AIS_basket_11] - [AIS basket of 11 premier IS journals](https://aisnet.org/page/SeniorScholarListofPremierJournals)
+- [A*]  -[ Excellent conference according to CORE (Computing Research and Education Association of Australasia) rankings](https://www.core.edu.au/icore-portal)
+- [TOP_SNA] - Published in top journals welcoming network analysis research.  *Social Networks*
+*American Sociological Review*
+*Network Science*
+*American Journal of Sociology*
+*Social Forces*
+*Sociological Science*
+*Proceedings of the National Academy of Sciences (PNAS)*
+*Connections* 
+*Science*
+*Nature*
 
 ## Motivation 
 
