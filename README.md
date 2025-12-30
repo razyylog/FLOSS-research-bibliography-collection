@@ -57,15 +57,29 @@ The following bibliographic flat-file database files follow the BibTeX format. T
 
 Several comments are used to annotate a BibTeX entry.  For example, if a entry have a  entry with comment = {AIS_basket_11, special_issue, literature_review} it denotes that the entry refers to a literature review article published in a premier Information Systems journal, on a edited special issue. 
 
+
+###  Notation on the nature of the article 
+- [special_issue] - Special issue p
+- [literature_review] - Review of literature  
+- [systematic_literature_review] - Systematic review of literatur
+- [mixed_methods] - Mixed or multi methods 
+- [meta] - Meta-study  paper 
+- [design_science] - Design science paper 
+- [network_analysis] - Network analysis paper
+- [machine_learning] - Machine learning paper
+- [new_method] - Claims a new method
+- [new_theory] - Claims a new theory
+
+
+
+### Notations on the prestige of the article 
+- [high_cited]  High citations (1000+) according to Google Scholar
+
 ### Notations on the prestige of the publication outlet 
-[FT50] - [50 academic and practitioner journals used by the Financial Times to rank faculty research in MBA, EMBA, and online MBA programs](https://guides.lib.purdue.edu/ft50)
+- [FT50] - 50 academic and practitioner journals used by the Financial Times to rank faculty research. See [https://guides.lib.purdue.edu/ft50](https://guides.lib.purdue.edu/ft50)
 [AIS_basket_11] - [AIS basket of 11 premier IS journals](https://aisnet.org/page/SeniorScholarListofPremierJournals)
 [A*]  -[ Excellent conference according to CORE (Computing Research and Education Association of Australasia) rankings](https://www.core.edu.au/icore-portal) 
 
-###  Notation on the nature of the article 
-[special_issue] - Special issue
-[literature_review] - Review of literature 
-[systematic_literature_review] - Systematic review of literature 
 
 
 ## Motivation 
