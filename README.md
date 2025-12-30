@@ -90,6 +90,7 @@ Several comments are used to annotate a BibTeX entry.  For example, if a entry h
 - [AIS_basket_11] - **AIS basket of 11 premier IS journals**
   See [https://aisnet.org/page/SeniorScholarListofPremierJournals)(https://aisnet.org/page/SeniorScholarListofPremierJournals)
 
+
 *Decision Support Systems*  
 *European Journal of Information Systems*  
 *Information & Management*  
@@ -101,10 +102,12 @@ Several comments are used to annotate a BibTeX entry.  For example, if a entry h
 *Journal of Management Information Systems (JMIS)*  
 *Journal of Strategic Information Systems*  
 *MIS Quarterly*
-  
+
 - [TOP_SNA] **Top Network Analysis Journals:**
 
-*Social Networks*  
+
+<sub>
+<div style="padding-left: 15px;">*Social Networks*  
 *American Sociological Review*  
 *Network Science*  
 *American Journal of Sociology*  
@@ -113,7 +116,7 @@ Several comments are used to annotate a BibTeX entry.  For example, if a entry h
 *Proceedings of the National Academy of Sciences (PNAS)*  
 *Connections*  
 *Science*  
-*Nature*
+*Nature*</div></sub>
 
 - [TOP_SE_J] **Top Software Engineering Journals:**
 
