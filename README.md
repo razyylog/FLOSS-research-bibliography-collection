@@ -4,7 +4,7 @@ A curated collection of bibliographic references on Free/Libre Open Source Softw
 Curated by [Jose Teixeira](http://www.jteixeira.eu/) during his doctoral studies on ["Coopetition in an open-source way"](http://www.jteixeira.eu/dissertation/diss.pdf) in Information Systems at the University of Turku, Finland. 
 This collection was originally intended for personal use but is now in the public domain to facilitate a more collaborative mapping of the current state of the art in open-source software research, thereby reducing the duplication of efforts among researchers on the topic.
 
-
+<div style="padding-left: 50px; background-color: green; border-radius: 5px;">
 
           ________________________________________
          /                                       /|
@@ -35,6 +35,7 @@ This collection was originally intended for personal use but is now in the publi
        |   └─────────────────────────────┘     | /
        |_______________________________________|/
 
+</div>
 
 ## Format, files and topics.
 
