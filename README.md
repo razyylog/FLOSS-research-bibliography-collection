@@ -84,9 +84,11 @@ Several comments are used to annotate a BibTeX entry.  For example, if a entry h
 
 ### Notations on the prestige of the publication outlet 
 - [FT50] - 50 academic and practitioner journals used by the Financial Times to rank faculty research. See [https://guides.lib.purdue.edu/ft50](https://guides.lib.purdue.edu/ft50)
-- [AIS_basket_11] - [AIS basket of 11 premier IS journals](https://aisnet.org/page/SeniorScholarListofPremierJournals)
-- [A*]  -[ Excellent conference according to CORE (Computing Research and Education Association of Australasia) rankings](https://www.core.edu.au/icore-portal)
-- [TOP_SNA] - Published in top journals welcoming network analysis research.  *Social Networks*
+- [AIS_basket_11] - AIS basket of 11 premier IS journals. See [https://aisnet.org/page/SeniorScholarListofPremierJournals)(https://aisnet.org/page/SeniorScholarListofPremierJournals)
+- [A*]  - Excellent conference according to CORE (Computing Research and Education Association of Australasia) rankings. See [https://www.core.edu.au/icore-portal](https://www.core.edu.au/icore-portal)
+- [TOP_SNA] - **Top network analysis Journal**:
+
+ *Social Networks*
 *American Sociological Review*
 *Network Science*
 *American Journal of Sociology*
