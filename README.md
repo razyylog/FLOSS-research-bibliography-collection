@@ -140,21 +140,6 @@ Several comments are used to annotate a BibTeX entry.  For example, if a entry h
 *International Conference on Software Analysis, Evolution, and Reengineering (SANER)*  
 *IEEE International Conference on Software Maintenance and Evolution (ICSME)*  
 *Proceedings of the ACM on Programming Languages (PACMPL)*
-## Motivation 
-
- Motivations for releasing to the public domain this curated bibliometric collection include: 
-
-| Motivation                                      | Description                                                                                     |
-|--------------------------------------------------|-------------------------------------------------------------------------------------------------|
-| **Poor quality of avaiable data**         |  Most of the references exported from [Google Scholar](https://scholar.google.com), [CrossRef](https://www.crossref.org), [Web of Science](https://www.webofscience.com), [Scopus](https://www.scopus.com), [EBSCOhost](https://www.ebsco.com), [IEEE Xplore](https://ieeexplore.ieee.org), [ACM Digital Library](https://dl.acm.org) often contain typos and are wrongly capitalized (e.g., missing the title case).|
-| **Long-term Archival and Preservation**         | Ensures bibliometric data is preserved, accessible, and usable for future research.           |
-| **Stimulate Collaboration Among FLOSS Researchers** | Encourages open collaboration, data sharing, and community-driven curation of bibliometric data.            |
-| **Reduction of Duplicate Efforts**               | Minimizes redundant bibliometric data collection and processing across researchers and research groups.                    |
-| **Support for Meta-Research**                    | Facilitates large-scale studies on research trends, impact, and open science practices.     |
-| **Encouragement of Open Science Practices**     | Promotes FAIR (Findable, Accessible, Interoperable, Reusable) principles in research.          |
-| **Community Engagement and Feedback**           | Allows for community contributions, corrections, and updates to the dataset. Improved bibliomentric data by peer reivew before merging               |
-| **Interdisciplinary Research Support**          | Enables researchers from different fields to access and analyze bibliometric data.           |
-| **Historical and Trend Analysis**               | Supports longitudinal studies of research evolution, citation patterns, and collaboration.   |
 
 
 ## Usage
@@ -242,6 +227,22 @@ and Technology | 3 |
 [<img src="coauthorship_coauthorship_network.png" alt="Network" width="50%;">](coauthorship_coauthorship_network.png)
 
 See [coauthorship_coauthorship_report.md](https://github.com/jaateixeira/FLOSS-research-bibliography-collection/blob/main/coauthorship_coauthorship_report.md) for a bibliometric report from a network perspective (i.e. more interested in relations than quantities). 
+
+## Motivation 
+
+ Motivations for releasing to the public domain this curated bibliometric collection include: 
+
+| Motivation                                      | Description                                                                                     |
+|--------------------------------------------------|-------------------------------------------------------------------------------------------------|
+| **Poor quality of avaiable data**         |  Most of the references exported from [Google Scholar](https://scholar.google.com), [CrossRef](https://www.crossref.org), [Web of Science](https://www.webofscience.com), [Scopus](https://www.scopus.com), [EBSCOhost](https://www.ebsco.com), [IEEE Xplore](https://ieeexplore.ieee.org), [ACM Digital Library](https://dl.acm.org) often contain typos and are wrongly capitalized (e.g., missing the title case).|
+| **Long-term Archival and Preservation**         | Ensures bibliometric data is preserved, accessible, and usable for future research.           |
+| **Stimulate Collaboration Among FLOSS Researchers** | Encourages open collaboration, data sharing, and community-driven curation of bibliometric data.            |
+| **Reduction of Duplicate Efforts**               | Minimizes redundant bibliometric data collection and processing across researchers and research groups.                    |
+| **Support for Meta-Research**                    | Facilitates large-scale studies on research trends, impact, and open science practices.     |
+| **Encouragement of Open Science Practices**     | Promotes FAIR (Findable, Accessible, Interoperable, Reusable) principles in research.          |
+| **Community Engagement and Feedback**           | Allows for community contributions, corrections, and updates to the dataset. Improved bibliomentric data by peer reivew before merging               |
+| **Interdisciplinary Research Support**          | Enables researchers from different fields to access and analyze bibliometric data.           |
+| **Historical and Trend Analysis**               | Supports longitudinal studies of research evolution, citation patterns, and collaboration.   |
 
 
 
