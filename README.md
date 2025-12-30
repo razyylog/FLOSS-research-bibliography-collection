@@ -52,6 +52,7 @@ The following bibliographic flat-file database files follow the BibTeX format. T
 - [**floss-peer-review.bib**](floss-peer-review.bib) - Peer review  (aka code reviews) in FLOSS research. 
 - [**floss-sna.bib**](floss-sna.bib) - Social Network Analysis of FLOSS communities.
 - [**bibtoolrsc.rsc**](bibtoolrsc.rsc) -  Configuration file to style and generate citation keys.
+- [**format_all_bib_with_bibtool.sh**](format_all_bib_with_bibtool.sh) - Small bash script that formats and generate BibTeX keys for all .bib files in the directory using bibtool and standard configuration defined in [**bibtoolrsc.rsc**](bibtoolrsc.rsc).
 
 ## Notations 
 
@@ -259,7 +260,9 @@ Process and clean a BibTeX file using `bibtool` with custom resource rules, if y
 
 ```sh
 bibtool -v -d -k -r bibtoolrsc.rsc -F [in file] -o [out file]
-``` 
+```
+
+You can use the  [**format_all_bib_with_bibtool.sh**](format_all_bib_with_bibtool.sh) small bash script that formats and generate BibTeX keys for all .bib files in the directory using bibtool and the standard [**bibtoolrsc.rsc**](bibtoolrsc.rsc) configurations.
 
 ## License
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode.txt)
